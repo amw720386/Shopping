@@ -1,0 +1,22 @@
+Store detail:
+Walmart
+Brampton
+Orange,5,$4.80
+Bread,10,$2.99
+Butter,20,$3.99
+Milk,20,$2.25
+Eggs,100,$1.50
+
+Values Mart
+Malton
+Milk,10,$2.20
+Orange,15,$5.80
+Eggs,50,$2.50
+Butter,5,$1.99
+
+Canadian Tires
+Milton
+Bread,10,$4.99
+Orange,5,$4.00
+Eggs,20,$1.00
+Butter,12,$3.00
